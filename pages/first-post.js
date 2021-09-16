@@ -10,7 +10,7 @@ export default function FirstPost() {
       <Head>
         <title>First Post 3</title>
       </Head>
-      <h1>First Post</h1>
+      <h1>First Post wooo</h1>
       <h2>
         <div>
           <Image
